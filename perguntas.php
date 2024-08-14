@@ -1,5 +1,5 @@
 <?php
-//require_once 'header.php';
+require_once 'header.php';
 require 'lib/Meli/meli.php';
 require 'configApp.php';
 
