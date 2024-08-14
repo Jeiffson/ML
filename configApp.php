@@ -3,7 +3,7 @@
 
 $appId = '2912143404307015';
 $secretKey = '57r0XStJzR1BQc7v4CQyJE0F6yc6VfuO';
-$redirectURI = 'https://localhost/ml/loginteste.php';
+$redirectURI = 'https://perguntassinapse-38007fcc4155.herokuapp.com';
 $siteId = 'MLB';
 
 //$_SESSION['access_token'] = 'APP_USR-7174773457857060-081316-3bb07a96026951a2210300533b8e86e1-48650523';
